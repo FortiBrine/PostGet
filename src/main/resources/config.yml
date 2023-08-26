@@ -1,0 +1,12 @@
+database:
+  name: name
+  host: host
+  user: root
+  password: password
+
+application:
+  group-id: 0
+  application-id: 0
+  application-token: token
+
+period: 20

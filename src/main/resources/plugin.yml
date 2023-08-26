@@ -1,0 +1,7 @@
+name: PostGet
+main: me.fortibrine.postget.main.Main
+version: 1.0
+
+commands:
+  get:
+    description: "get last post"
